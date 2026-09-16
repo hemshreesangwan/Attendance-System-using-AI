@@ -1,0 +1,14 @@
+nano requirements.txt
+streamlit
+supabase
+bcrypt
+face-recognition
+face-recognition-models
+dlib
+scikit-learn
+numpy
+pandas
+opencv-python
+Pillow
+
+
