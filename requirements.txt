@@ -1,4 +1,3 @@
-nano requirements.txt
 streamlit
 supabase
 bcrypt
@@ -6,9 +5,10 @@ face-recognition
 face-recognition-models
 dlib
 scikit-learn
-numpy
+numpy<2
 pandas
-opencv-python
+opencv-python==4.10.0.84
 Pillow
-
-
+segno
+librosa
+resemblyzer

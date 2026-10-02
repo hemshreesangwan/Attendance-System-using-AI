@@ -6,4 +6,5 @@ __pycache__/
 .env.*
 .streamlit/secrets.toml
 .DS_Store
+src/database/local_data.json
 
